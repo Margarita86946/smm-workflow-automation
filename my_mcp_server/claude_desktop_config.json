@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "newyear": {
+      "command": "C:/Users/Asus/AppData/Local/Microsoft/WindowsApps/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/python.exe",
+      "args": ["C:/Users/Asus/Desktop/my_mcp_server/newyear_server.py"]
+    }
+  }
+}
